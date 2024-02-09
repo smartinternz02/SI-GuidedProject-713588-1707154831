@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>60515a6b-053a-427f-b7cf-74fb13a8b5aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-signin-tooltip']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-signin-tooltip > a.nav-action-signin-button > span.nav-action-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46de95a6-4186-4e7e-acef-455457b357b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-action-inner</value>
+      <webElementGuid>deb3cf87-f0a0-4522-8be5-aa18c5dcc203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>9b61b996-6405-47d4-a6bb-003082349db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-signin-tooltip&quot;)/a[@class=&quot;nav-action-signin-button&quot;]/span[@class=&quot;nav-action-inner&quot;]</value>
+      <webElementGuid>01e21cb5-f2c6-4bb1-a88f-ab8159f225b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-signin-tooltip']/a/span</value>
+      <webElementGuid>68632572-1f15-482a-a692-0eb431ffcee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/a/span</value>
+      <webElementGuid>e657543a-294a-4691-9790-bebe02e538ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>ef9f616f-1847-4614-870c-23eca40a3848</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

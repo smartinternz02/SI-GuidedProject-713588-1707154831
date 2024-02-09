@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Keep shopping for_cards_carousel_widget_0b75be</name>
+   <tag></tag>
+   <elementGuidId>129fbc1c-4ee8-4b88-8599-60589ef9a785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div[2]/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cards_carousel_widget-sug-image-background.cards_carousel_widget-sug-image-grey-shield</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4099b426-4d3f-4c7f-bc0c-a90200e1bfea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cards_carousel_widget-sug-image-background cards_carousel_widget-sug-image-grey-shield</value>
+      <webElementGuid>ac659a97-0ebd-4858-ab21-d569fe462412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-searchAjax&quot;)/div[@class=&quot;autocomplete-results-container&quot;]/div[@class=&quot;two-pane-results-container&quot;]/div[@class=&quot;left-pane-results-container&quot;]/div[1]/div[@class=&quot;cards_carousel_widget-suggestion&quot;]/div[@class=&quot;cards_carousel_widget-sug-container-top&quot;]/div[@class=&quot;cards_carousel_widget-sug-column&quot;]/div[@class=&quot;cards_carousel_widget-sug-card&quot;]/a[@class=&quot;cards_carousel_widget-sug-link&quot;]/div[@class=&quot;cards_carousel_widget-sug-image-container&quot;]/div[@class=&quot;cards_carousel_widget-sug-image-background cards_carousel_widget-sug-image-grey-shield&quot;]</value>
+      <webElementGuid>3c0ddd62-4701-4df8-8105-b42b652692ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div[2]/div/div/a/div/div</value>
+      <webElementGuid>8fc30f92-b0b1-4337-a90c-61d1cb2b5ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>40728866-350d-4032-a253-74a825bcd541</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

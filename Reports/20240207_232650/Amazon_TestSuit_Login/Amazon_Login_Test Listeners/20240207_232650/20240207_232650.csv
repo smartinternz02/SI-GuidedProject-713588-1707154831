@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Login_Test Listeners,Chrome 121.0.0.0,,,07-02-2024 23:26:53,07-02-2024 23:27:58,1m - 4.923s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_Login,Chrome 121.0.0.0,,,07-02-2024 23:26:54,07-02-2024 23:27:58,1m - 4.735s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 23:26:54,07-02-2024 23:26:58,4.375s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 23:26:58,07-02-2024 23:26:59,1.224s,PASSED
+"navigateToUrl(""https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"")",Chrome 121.0.0.0,,,07-02-2024 23:26:59,07-02-2024 23:27:05,6.121s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""9025922351"")",Chrome 121.0.0.0,,,07-02-2024 23:27:05,07-02-2024 23:27:48,42.684s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,07-02-2024 23:27:48,07-02-2024 23:27:57,8.856s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_OR/Page_Amazon Sign In/input_Forgot Password_password""), ""S2G0OOYZRIveMPyfCU1myw=="")",Chrome 121.0.0.0,,,07-02-2024 23:27:57,07-02-2024 23:27:58,0.817s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,07-02-2024 23:27:58,07-02-2024 23:27:58,0.361s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,07-02-2024 23:27:58,07-02-2024 23:27:58,0.167s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 23:27:58,07-02-2024 23:27:58,0.008s,PASSED
